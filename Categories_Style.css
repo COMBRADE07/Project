@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.COMBRADE_07 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+
+}
+
+
+.nb {
+  color: rgb(126, 16, 236);
+  background-color: #000;
+}
+
+a:hover {
+  background-color: rgba(148, 154, 231, 0.267);
+  
+}
+
+  mark {
+    background-color: #ff8800;
+    border-radius: 18px;
+    color: rgb(255, 255, 255);
+  }
+.category_heading{
+  margin-top: 15vh;
+  margin-bottom: 4px;
+}
+.heading_highlighter{
+  margin-left: 10px;
+  background: rgb(86, 214, 0);
+  border-radius: 6px;
+  color: rgb(255, 255, 255);
+}
+.dimentions{
+  margin: 20px 20px 0px 10px;
+  background: rgba(135, 200, 238, 0.445);
+  border-radius: 12px;
+  padding: 10px 10px 10px 10px;
+
+}
+.category_1{
+  min-width: 100%;
+  margin-top: 20px;
+  border-radius: 12px;
+  background: rgba(135, 200, 238, 0.445);
+  padding: 10px 10px 10px 10px;
+}
+p{
+  margin-left: 50px;  
+  font-size: larger;  
+}
+font1{
+  color: blue;
+  size: 20px;
+}

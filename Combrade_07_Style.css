@@ -1,0 +1,75 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .COMBRADE_07 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+
+  }
+
+
+  .nb {
+    color: rgb(126, 16, 236);
+    background-color: #000;
+  }
+
+  a:hover {
+    background-color: rgba(148, 154, 231, 0.267);
+    
+    
+  }
+
+  .box1 {
+    text-align: center;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+ }
+  /* for text decoration */
+  .text {
+    text-decoration: wavy;
+    background-color: rgb(97, 36, 129);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .Design_Text {
+
+    text-align: center;
+  }
+
+  mark {
+    background-color: #eeff00;
+  }
+.bcolor{
+  color: rgb(255, 255, 255)  ;
+  background-color: rgb(36, 86, 250);
+}
+.bcolor1{
+  color: rgb(255, 255, 255)  ;
+  background-color: rgb(255, 0, 0);
+}
+
+
+.bcolor:hover{
+  color: rgb(255, 255, 255)  ;
+  background-color: rgb(236, 238, 243);
+}
+
+.Card_Text{
+  font-size:larger;
+  font-weight:500;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.Card_Text:hover{
+  background-color: rgb(113, 160, 236);
+  font-size:larger;
+  font-weight:500;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-decoration:underline;
+}
+.popup:hover{
+font-size: 50px;
+}
